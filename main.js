@@ -22,8 +22,8 @@ const logger = winston.createLogger({
   ],
 })
 
-const email = '0930531476'
-const password = 'dfhafdjklafj09879087987QAW@'
+const email = ''
+const password = ''
 let facebookPic;
 
 async function parseFacebook(email, password) {
